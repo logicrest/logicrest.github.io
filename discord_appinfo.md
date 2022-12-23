@@ -8,4 +8,4 @@ nav_order: 1
 You can use this endpoint to fetch information about an application on Discord.
 
 ## Endpoint
-`https://logic.rest/api/v1/discord/application:id`
+`https://logic.rest/api/v1/discord/application/:id`
