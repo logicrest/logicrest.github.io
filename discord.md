@@ -6,3 +6,4 @@ has_children: true
 ---
 
 # **Discord Endpoints**
+Endpoints for getting information from Discord
