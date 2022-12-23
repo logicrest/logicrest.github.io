@@ -1,5 +1,6 @@
 title: logic.rest
-description: A starter template for a Jeykll site using the Just the Docs theme!
+description: The official documentation website for logic.rest
 theme: dark
+search_enabled: true
 
 url: https://logicrest.github.io
