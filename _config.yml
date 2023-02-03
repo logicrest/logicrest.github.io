@@ -1,9 +1,11 @@
 title: logic.rest
 color_scheme: dark
 search_enabled: true
+
+url: https://logicrest.github.io
+theme: just-the-docs
+
 callouts:
   warning:
     title: Warning
     color: red
-url: https://logicrest.github.io
-theme: just-the-docs
