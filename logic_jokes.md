@@ -6,7 +6,7 @@ nav_order: 1
 ---
 
 {: .important }
-> This endpoint requires a logic.rest token
+This endpoint requires a logic.rest token
 
 # Get Random Joke
 This endpoint generates a random joke
