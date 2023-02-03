@@ -16,9 +16,18 @@ You can use this endpoint to fetch information about an application on Discord.
 | v1 | v1 |
 
 ### Parameters 
-| Name | Required? | Description |
-|----------|----------|----------|
-| :id | true | The ID of a Discord Application |
+<table>
+  <tr>
+    <th>Name</th>
+    <th>Required</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>:id</td>
+    <td>true</td>
+    <td>The ID of a Discord Application</td>
+  </tr>
+</table>
 
 ### JavaScript Example
 ```javascript
