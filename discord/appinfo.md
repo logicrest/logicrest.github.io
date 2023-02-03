@@ -52,7 +52,7 @@ You can use this endpoint to fetch information about an application on Discord.
     "hook":true,
     "terms_of_service_url":"https://logic.rest/terms",
     "privacy_policy_url":"https://logic.rest/privacy",
-    "tags":['API'],
+    "tags":["API","Viality Software"],
     "verify_key":"7f04f960f814b27de63641866c31cb52fccf67c59f09fcb920f8345783a4b5ec",
     "flags":2662400,
     "bot": {
