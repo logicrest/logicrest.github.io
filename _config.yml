@@ -1,11 +1,11 @@
 title: logic.rest
 color_scheme: dark
 search_enabled: true
-
 callouts:
   warning:
     title: Warning
     color: red
+footer_content: [Get a logic.rest Token](https://tokens.logic.rest)
 
 url: https://logicrest.github.io
 theme: just-the-docs
