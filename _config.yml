@@ -2,5 +2,10 @@ title: logic.rest
 color_scheme: dark
 search_enabled: true
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+
 url: https://logicrest.github.io
 theme: just-the-docs
