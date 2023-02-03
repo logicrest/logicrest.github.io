@@ -11,9 +11,16 @@ You can use this endpoint to fetch information about an application on Discord.
 **Endpoint:** `https://logic.rest/api/v1/discord/application/:id`
 
 ### Versions 
-| Supported Versions | Latest Version |
-|:------ | :------ |
-| v1 | v1 |
+<table>
+  <tr>
+    <th>Supported Versions</th>
+    <th>Latest Version</th>
+  </tr>
+  <tr>
+    <td>v1</td>
+    <td>v1</td>
+  </tr>
+</table>
 
 ### Parameters 
 <table>
