@@ -5,7 +5,7 @@ parent: logic.rest
 nav_order: 1
 ---
 
-{: .important }
+{: .warning }
 This endpoint requires a logic.rest token
 
 # Get Random Joke
